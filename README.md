@@ -26,5 +26,5 @@
   
 </div>
 
-![Snake animation](?username=Eduardabrasilc)
+![snake gif](https://github.com/Eduardabrasilc/Eduardabrasilc/blob/output/github-contribution-grid-snake.svg)
  
