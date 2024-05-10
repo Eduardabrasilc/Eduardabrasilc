@@ -1,6 +1,6 @@
 ## Oi! eu sou a Maria Eduarda👋
 
-- 🌱 Estudando análises e desenvolvimento de sistemas
+- 🌱 Estudando análise e desenvolvimento de sistemas
 
 
 <div style="display: inline_block"><br>
